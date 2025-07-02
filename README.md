@@ -13,7 +13,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-👨‍💻I'm a Tech Enthusiast <br>🔭I'm currently working on a secret Web development project with Django framwork<br>🌱I'm currently learning Machine Learning <br>😍I love working on Recommendation systems | Predictive analysis | NLP projects | Anomaly detection<br>⚡Fun fact I also do designing and film production
+👨‍💻I'm a Tech Enthusiast <br>🔭I'm currently working on a secret Web development project with Django framwork<br>🌱I'm currently learning Machine Learning <br>😍I love working on Web Services | Recommendation systems | Predictive analysis | NLP projects | Anomaly detection<br>⚡Fun fact I also do designing and film production
 
 
 
