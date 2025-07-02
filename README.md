@@ -5,9 +5,6 @@
 
   <p>Tech Enthusiast | Software Developer | Graphics Designer | Filmmaker</p>
 
-  <a href="https://www.instagram.com/iamodongo">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/edan-odongo-a6b489184">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
   </a>
