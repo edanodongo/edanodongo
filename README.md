@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
-  <h2>Hi there, I'm Edan Odongo 👋</h2>
+  <h2>Hi there, I'm Edan Odongo </h2>
 
   <p>Tech Enthusiast | Software Developer | Graphics Designer | Filmmaker</p>
 
@@ -21,12 +21,12 @@
 <table>
   <tr>
     <td width="50%">
-      <h3>💫 About Me</h3>
+      <h3> About Me</h3>
       <ul>
-        <li>👨‍💻 I'm a passionate tech enthusiast</li>
-        <li>🔭 Currently working on a <strong>secret web project using Django</strong></li>
-        <li>🌱 Learning <strong>Machine Learning</strong></li>
-        <li>😍 Enjoy working on:
+        <li> I'm a passionate tech enthusiast</li>
+        <li> Currently working on a <strong>secret web project using Django</strong></li>
+        <li> Learning <strong>Machine Learning</strong></li>
+        <li> Enjoy working on:
           <ul>
             <li>Web Services</li>
             <li>Recommendation Systems</li>
@@ -35,11 +35,11 @@
             <li>Anomaly Detection</li>
           </ul>
         </li>
-        <li>⚡ Fun fact: I also design and work in film production</li>
+        <li> Fun fact: I also design and work in film production</li>
       </ul>
     </td>
     <td width="50%" align="center">
-      <h3>📊 GitHub Stats</h3>
+      <h3>📊w GitHub Stats</h3>
       <img src="https://github-readme-stats.vercel.app/api?username=edanodongo&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /><br/>
       <img src="https://streak-stats.demolab.com/?user=edanodongo&theme=dark&hide_border=false"/><br/>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edanodongo&theme=dark&hide_border=false&layout=compact"/>
