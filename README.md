@@ -35,7 +35,7 @@
             <li>Anomaly Detection</li>
           </ul>
         </li>
-        <li> Fun fact: I also design and work in film production</li>
+        <li> Fun fact: I also do graphics design and work in film production</li>
       </ul>
     </td>
     <td width="50%" align="center">
