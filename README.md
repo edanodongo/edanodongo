@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
-  <h2>Hi there, I'm Edan Odongo </h2>
+  <h2>Hi there, I'm Edan </h2>
 
   <p>Tech Enthusiast | Software Developer | Graphics Designer | Filmmaker</p>
 
