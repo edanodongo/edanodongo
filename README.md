@@ -24,18 +24,17 @@
       <h3> About Me</h3>
       <ul>
         <li> I'm a passionate tech enthusiast</li>
-        <li> Currently working on a <strong>secret web project using Django</strong></li>
-        <li> Learning <strong>Machine Learning</strong></li>
-        <li> Enjoy working on:
+        <li> A student of <strong>Machine Learning</strong> let's engage</gli>
+        <li>I Enjoy working on:
           <ul>
             <li>Web Services</li>
             <li>Recommendation Systems</li>
             <li>Predictive Analysis</li>
             <li>NLP Projects</li>
-            <li>Anomaly Detection</li>
+            <li>APIs and system integration</li>
           </ul>
         </li>
-        <li> I also do graphics design and work in film production</li>
+        <li>PS: I also do graphics design and work in film production</li>
       </ul>
     </td>
     <td width="50%" align="center">
