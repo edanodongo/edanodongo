@@ -24,7 +24,7 @@
       <h3> About Me</h3>
       <ul>
         <li> I'm a passionate tech enthusiast</li>
-        <li> A student of Machine Learning let's engage</li>
+        <li> A student of Machine Learning, let's engage</li>
         <li>I Enjoy working on:
           <ul>
             <li>Web Services</li>
