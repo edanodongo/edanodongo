@@ -3,7 +3,7 @@
 
   <h2>Hi there, I'm Edan </h2>
 
-  <p>Tech Enthusiast | Software Developer | Graphics Designer | Filmmaker</p>
+  <p>A Tech Enthusiast | Software Developer | Graphics Designer | Filmmaker</p>
 
   <a href="https://www.linkedin.com/in/edan-odongo-a6b489184">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
