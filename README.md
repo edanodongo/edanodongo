@@ -31,10 +31,10 @@
             <li>Recommendation Systems</li>
             <li>Predictive Analysis</li>
             <li>NLP Projects</li>
-            <li>APIs and system integration</li>
+            <li>APIs and systems integration</li>
           </ul>
         </li>
-        <li>PS: I also do graphics design and work in film production</li>
+        <li>PS: I do graphics design and work in film production</li>
       </ul>
     </td>
     <td width="50%" align="center">
