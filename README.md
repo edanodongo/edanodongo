@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Konnichiwa!%20I'm%20Edan%20✨&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Tech%20Enthusiast%20•%20Software%20Developer%20•%20Graphics%20Designer%20•%20Filmmaker&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi,%20I'm%20Edan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Tech%20Enthusiast%20•%20Software%20Developer%20•%20Graphics%20Designer%20•%20Filmmaker&descAlignY=55&descSize=18"/>
 
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
@@ -22,7 +22,7 @@
 
 </div>
 
-## 🌸 About Me
+## About Me
 
 <table>
   <tr>
@@ -44,9 +44,9 @@
     </td>
     <td width="50%" align="center">
       <h3>📊 GitHub Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=edanodongo&theme=kacho_ga&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=86400" alt="Edan's GitHub stats" /><br/>
-      <img src="https://streak-stats.demolab.com/?user=edanodongo&theme=kacho_ga&hide_border=false"/><br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edanodongo&theme=kacho_ga&hide_border=false&layout=compact&cache_seconds=86400" alt="Edan's top languages" />
+      <img src="https://github-readme-stats.vercel.app/api?username=edanodongo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub stats" /><br/>
+      <img src="https://streak-stats.demolab.com/?user=edanodongo&theme=dark&hide_border=false"/><br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edanodongo&theme=dark&hide_border=false&layout=compact&cache_seconds=86400" alt="Top languages" />
     </td>
   </tr>
 </table>
