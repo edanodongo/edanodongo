@@ -44,9 +44,9 @@
     </td>
     <td width="50%" align="center">
       <h3>📊 GitHub Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=edanodongo&theme=kacho_ga&hide_border=false&include_all_commits=true&count_private=true" /><br/>
+      <img src="https://github-readme-stats.vercel.app/api?username=edanodongo&theme=kacho_ga&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=86400" alt="Edan's GitHub stats" /><br/>
       <img src="https://streak-stats.demolab.com/?user=edanodongo&theme=kacho_ga&hide_border=false"/><br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edanodongo&theme=kacho_ga&hide_border=false&layout=compact"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edanodongo&theme=kacho_ga&hide_border=false&layout=compact&cache_seconds=86400" alt="Edan's top languages" />
     </td>
   </tr>
 </table>
