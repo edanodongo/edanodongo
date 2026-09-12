@@ -1,31 +1,36 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
-  <h2>Hi there, I'm Edan </h2>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Konnichiwa!%20I'm%20Edan%20✨&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Tech%20Enthusiast%20•%20Software%20Developer%20•%20Graphics%20Designer%20•%20Filmmaker&descAlignY=55&descSize=18"/>
 
-  <p>A Tech Enthusiast | Software Developer | Graphics Designer | Filmmaker</p>
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
-  <a href="https://www.linkedin.com/in/edan-odongo-a6b489184">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72585&center=true&vCenter=true&width=460&lines=Coding+by+day%2C+anime+by+night+%F0%9F%8C%99;Powered+by+ramen+and+recursion+%F0%9F%8D%9C;Currently+debugging+the+space-time+continuum" alt="Typing SVG" />
+</a>
+
+<a href="https://www.linkedin.com/in/edan-odongo-a6b489184">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://stackoverflow.com/users/26574084">
+</a>
+<a href="https://stackoverflow.com/users/26574084">
     <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" />
-  </a>
-  <a href="https://x.com/EdanOdongo">
+</a>
+<a href="https://x.com/EdanOdongo">
     <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" />
-  </a>
+</a>
+
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-Github/main/pink_dot_line.gif" width="100%">
+
 </div>
 
----
+## 🌸 About Me
 
 <table>
   <tr>
     <td width="50%">
-      <h3> About Me</h3>
       <ul>
-        <li> I'm a passionate tech enthusiast</li>
-        <li> A student of Machine Learning, let's engage</li>
-        <li>I Enjoy working on:
+        <li>🎴 I'm a passionate tech enthusiast</li>
+        <li>📖 A student of Machine Learning — let's engage</li>
+        <li>⚔️ I Enjoy working on:
           <ul>
             <li>Web Services</li>
             <li>Recommendation Systems</li>
@@ -34,42 +39,46 @@
             <li>APIs and systems integration</li>
           </ul>
         </li>
-        <li>PS: I do graphics design and work in film production</li>
+        <li>🎨 PS: I do graphics design and work in film production</li>
       </ul>
     </td>
     <td width="50%" align="center">
-      <h3>📊w GitHub Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=edanodongo&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /><br/>
-      <img src="https://streak-stats.demolab.com/?user=edanodongo&theme=dark&hide_border=false"/><br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edanodongo&theme=dark&hide_border=false&layout=compact"/>
+      <h3>📊 GitHub Stats</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=edanodongo&theme=kacho_ga&hide_border=false&include_all_commits=true&count_private=true" /><br/>
+      <img src="https://streak-stats.demolab.com/?user=edanodongo&theme=kacho_ga&hide_border=false"/><br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edanodongo&theme=kacho_ga&hide_border=false&layout=compact"/>
     </td>
   </tr>
 </table>
 
----
+<div align="center">
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-Github/main/pink_dot_line.gif" width="100%">
+</div>
 
-## 💻 Tech Stack
+## ⛩️ Tech Stack
 
-**Languages & Frameworks**  
+**Languages & Frameworks**
 <p>
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 </p>
 
-**Web & Backend**  
+**Web & Backend**
 <p>
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white"/>
 </p>
 
-**Databases**  
+**Databases**
 <p>
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -77,7 +86,7 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
-**Machine Learning & Data**  
+**Machine Learning & Data**
 <p>
   <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"/>
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -87,7 +96,7 @@
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
 </p>
 
-**DevOps & Hosting**  
+**DevOps & Hosting**
 <p>
   <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/>
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
@@ -97,7 +106,7 @@
   <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
 </p>
 
-**Design & Creative Tools**  
+**Design & Creative Tools**
 <p>
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
@@ -106,3 +115,10 @@
   <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/>
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-Github/main/pink_dot_line.gif" width="100%">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+</div>
