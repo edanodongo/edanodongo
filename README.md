@@ -18,8 +18,6 @@
     <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" />
 </a>
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-Github/main/pink_dot_line.gif" width="100%">
-
 </div>
 
 ## About Me
@@ -52,7 +50,9 @@
 </table>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-Github/main/pink_dot_line.gif" width="100%">
+
+---
+
 </div>
 
 ## ⛩️ Tech Stack
@@ -117,7 +117,8 @@
 </p>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-Github/main/pink_dot_line.gif" width="100%">
+
+---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
