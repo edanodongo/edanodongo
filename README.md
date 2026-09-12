@@ -5,7 +5,7 @@
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72585&center=true&vCenter=true&width=460&lines=Coding+by+day%2C+anime+by+night+%F0%9F%8C%99;Powered+by+ramen+and+recursion+%F0%9F%8D%9C;Currently+debugging+the+space-time+continuum" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72585&center=true&vCenter=true&width=460&lines=Coding+by+day%2C+anime+by+night+%F0%9F%8C%99;Currently+debugging+the+space-time+continuum" alt="Typing SVG" />
 </a>
 
 <a href="https://www.linkedin.com/in/edan-odongo-a6b489184">
